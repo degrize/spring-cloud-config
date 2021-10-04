@@ -1,0 +1,4 @@
+# sample public application.yml
+
+application:
+    message: Configured by spring cloud Config Server
